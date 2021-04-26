@@ -152,3 +152,32 @@
       height: 620px !important;
     }
   }
+
+
+.custom-111{
+  color:#282828
+}
+
+.custom-1112{
+  background-color:#dd3333
+}
+
+.custom-1113{
+  background-color:#ffffff
+}
+
+.custom-1114{
+  background-color:#68c3a3
+}
+
+.custom-1115{
+  background-color: rgba(104,195,163,0.7)
+}
+
+.custom-1116{
+font-size: 36px;color: #ffffff;text-align: center
+}
+
+.custom-1117{
+font-size: 14px;line-height: 28px;text-align: left
+}
