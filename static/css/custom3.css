@@ -154,6 +154,9 @@
     .blog_blog{
       margin-right: 0px !important;
     }
+  .home_banner_title{
+  font-size: 350% !important;
+}
   }
 
 
@@ -183,8 +186,4 @@ font-size: 36px;color: #ffffff;text-align: center !important;
 
 .custom-1117{
 font-size: 14px;line-height: 28px;text-align: left !important;
-}
-
-.home_banner_title{
-  font-size: 350% !important;
 }
