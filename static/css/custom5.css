@@ -197,7 +197,8 @@ font-size: 14px;line-height: 28px;text-align: left !important;
 	width:60px !important;
 }
 
-@media (max-width: 767px)
+@media (max-width: 767px){
 .navbar-brand {
     padding: 0px 15px !important; 
+}
 }
