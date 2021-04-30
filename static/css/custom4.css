@@ -154,10 +154,6 @@
     .blog_blog{
       margin-right: 0px !important;
     }
-  .home_banner_title{
-  font-size: 350% !important;
-  line-height: 55px !important;
-}
   }
 
 
@@ -187,4 +183,21 @@ font-size: 36px;color: #ffffff;text-align: center !important;
 
 .custom-1117{
 font-size: 14px;line-height: 28px;text-align: left !important;
+}
+
+.home_banner_title{
+  font-size: 350% !important;
+}
+
+.logo{
+	width:60px; margin:5px 0px !important;
+}
+
+.logo_mobile{
+	width:60px;
+}
+
+@media (max-width: 767px)
+.navbar-brand {
+    padding: 0px 15px !important; 
 }
