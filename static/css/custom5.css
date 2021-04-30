@@ -190,11 +190,11 @@ font-size: 14px;line-height: 28px;text-align: left !important;
 }
 
 .logo{
-	width:60px; margin:5px 0px !important;
+	width:60px !important; margin:5px 0px !important;
 }
 
 .logo_mobile{
-	width:60px;
+	width:60px !important;
 }
 
 @media (max-width: 767px)
